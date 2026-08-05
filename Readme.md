@@ -1,3 +1,4 @@
+```
 weather_ex/
 ├── Dockerfile                              # 第0章: mix phx.gen.release --docker で生成
 ├── mix.exs                                 # 第2章でHTTPクライアント用の依存追加、第6章で編集
@@ -44,3 +45,4 @@ weather_ex/
     └── weather_ex_web/
         └── live/
             └── weather_live_test.exs       # 第5章
+```
